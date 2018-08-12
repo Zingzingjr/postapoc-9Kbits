@@ -1,4 +1,4 @@
-###ÄNSI
+###Ã„NSI
 
 amerodeutsch = {
 	graphical_cultures = { westerngfx }
@@ -20,7 +20,7 @@ amerodeutsch = {
 			Innozenz_Innocent Isaiah_Isaiah Isaac_Isaac Immanuel_Immanuel
 			Johannes_John Joshua_Joshua Joseph_Joseph Jakob_Jacob Jeremiah_Jeremiah Julius_Julius Johst James_James Jared Jesse Jethro Jokim
 			Karl_Charles Klause_Nicholas Kunrat_Conrad Konstantin_Constantine Kephart Kasimir
-			Lorenz_Lawrence Lothar Luithart Ludwig_Louis Lucas_Luke Linus Lühr Ludger Leonardt_Leonard Levi
+			Lorenz_Lawrence Lothar Luithart Ludwig_Louis Lucas_Luke Linus LÃ¼hr Ludger Leonardt_Leonard Levi
 			Markus_Mark Markwald Mark_Mark Maganhard Menno Moses_Moses Marius_Marius Maginulf Matthias_Matthew Martin_Martin Micah
 			Nicolaus_Nicholas Nagalrich Noah
 			Otto_Otto Obediah Otacher Octavius_Octavius Oskar_Oscar
@@ -351,11 +351,11 @@ amerodeutsch = {
 		color = { 0.5 0.05 0.05 }
 
 		male_names = {
-			Abba Adam_Adam Aharon_Aaron Akiva Alexander_Alexander Alter Amram Andy_Andrew Anton_Anthony Ariel Asher Avomai Avraham_Abraham
+			Abba Adam_Adam Aharon_Aaron Akiva Alexander_Alexander Alon Alter Amram Andy_Andrew Anton_Anthony Ari Ariel Asher Avomai Avraham_Abraham
 			Baruch_Benedict Benesh_Benedict Ber Ben-Tzion Bill_William Binyamin_Benjamin Bunem
 			Calev Chananel Chaninai Chanoch Chatzkel Chayim Chelbo Chisdai Chiyya Chizkiyah Chofni Chushiel
-			Dan_Daniel Daniel_Daniel David_David Dodai
-			Efrayim Ehud Eina Elchanan Eldad Eli Eliezer Eliyahu_Elijah Elyakim Ethan
+			Dan_Daniel Daniel_Daniel David_David_Dovid Dodai
+			Efrayim Ehud Eina Elchanan Eldad Eli Eliezer Eliyahu_Elijah Elyakim Ethan Evyatar Ezra
 			Faivish Feivel Fishel Fishke Frederik_Frederick
 			Gavriel_Gabriel Gad Gedalyah Gershom Gideon_Gideon Gilead
 			Harold Henry_Henry Hersh Hershel Hillel
@@ -363,16 +363,16 @@ amerodeutsch = {
 			Kafnai Kahana Kalmen Khlavne Koppel_Jacob
 			James_James Jason Jonah Josh_Joshua Joseph_Joseph Jonathan_Jonathan
 			Lazar Leonard_Leonard Levi
-			Maximilian Maxwell Machir Malcha Matiyahu Meir Mendel Menechem Menashe Mesharsheya Meshulam Mevasser Michael_Michael Mordechai Motel Moshe_Moses
-			Naftali Natan_Nathan Natroi Natronai Nechemiah Nehilai Netanel Nissim Noah
-			Otto_Otto
+			Maximilian Maxwell Max Machir Malcha Matiyahu Meir Mendel Menechem Menashe Mesharsheya Meshulam Mevasser Michael_Michael Mordechai Motel Moshe_Moses
+			Naftali Natan_Nathan Natroi Natronai Nechemiah Nehilai Netanel Nissim Noah Navon
+			Obadiah Otto_Otto
 			Paltoi Pirkoi
 			Ram Rav Ravi Reuven
-			Saul_Paul Sam_Samuel Selig Scott Sechok Sender_Alexander Seth Shalom Shanoi Shemaryah Sherira Sheshna Shila Shimon_Simon Shlomo Shmuel_Samuel Steven_Stephen
-			Tamar Tevye Todres_Theodore Tzadok Tzemach
-			Uri Uzziyahu
+			Saul_Paul Sam_Samuel Selig Scott Sechok Sender_Alexander Seth Shalom Shanoi Shemaryah Sherira Sheshna Shia_Shaya Shila  Shimon_Simon Shlomo Shmuel_Samuel Steven_Stephen
+			Tamar Tani Tevye Todres_Theodore Tzadok Tzemach Tzvi
+			Usher Uri Uzziyahu
 			Velvel_William
-			Yaakov_Jacob Yachya Yechiel Yehudah_Judah Yeshua_Joshua Yeshayahu Yissachar Yitzchak Yochanan_John Yonatan_Jonathan Yoel Yosef_Joseph
+			Yaakov_Jacob Yachya Yechiel Yehudah_Judah Yeshua_Joshua Yeshayahu Yissachar Yitzchak Yochanan_John Yonatan_Jonathan Yoel Yoni Yosef_Joseph
 			Zachary_Zachary Zevulun Zlate Zusman
 		}
 		
